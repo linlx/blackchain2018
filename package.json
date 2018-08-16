@@ -1,0 +1,19 @@
+{
+  "name": "blackchain2018",
+  "version": "1.0.0",
+  "description": "node js 201808161303",
+  "main": "index.js",
+  "scripts": {
+    "test": "tEsTjS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linlx/blackchain2018.git"
+  },
+  "author": "linlx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linlx/blackchain2018/issues"
+  },
+  "homepage": "https://github.com/linlx/blackchain2018#readme"
+}
